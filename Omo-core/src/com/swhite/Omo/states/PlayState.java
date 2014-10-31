@@ -9,7 +9,7 @@ public class PlayState extends State {
 	}
 
 	public void update(float dt) {
-		System.out.println("Testing");
+		//Testing Stuff
 	}
 
 	public void render(SpriteBatch sb) {
